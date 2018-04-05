@@ -1,0 +1,4 @@
+owner=Marcel Holtmann
+desc=Bluetooth protocol stack for Linux
+homepage=http://www.bluez.org
+snapshots=0
